@@ -827,6 +827,7 @@ MonoBehaviour:
   itemDatabase: {fileID: 1281083815}
   baseItemBoxPrefab: {fileID: 174524, guid: 0ccd3fbc50e58e74eba2064d52887f0f, type: 2}
   baseItemImagePrefab: {fileID: 123596, guid: fb71c68ede6e6e1448b9f161fb046f0a, type: 2}
+  amountOfBoxes: 10
 --- !u!1 &1524202887
 GameObject:
   m_ObjectHideFlags: 0
